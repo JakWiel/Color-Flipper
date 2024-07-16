@@ -1,0 +1,18 @@
+body {
+  font-size: larger;
+}
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  max-width: fit-content;
+  margin: auto;
+  margin-top: 400px;
+}
+.label-text {
+  background-color: rgba(1, 1, 1, 0.628);
+  color: white;
+  padding: 10px;
+  border-radius: 5px;
+}
